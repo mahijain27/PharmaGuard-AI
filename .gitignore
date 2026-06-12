@@ -1,0 +1,50 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# ======================
+# Node.js / React
+# ======================
+node_modules/
+dist/
+build/
+
+# ======================
+# Environment Variables
+# ======================
+.env
+.env.local
+.env.production
+.env.development
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Logs
+# ======================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Temporary Files
+# ======================
+*.tmp
+*.temp

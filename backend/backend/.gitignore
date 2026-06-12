@@ -1,0 +1,23 @@
+# Trained models (large files — regenerate with train.py)
+trained_models/*.pkl
+trained_models/*.keras
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Generated data & outputs
+supply_chain_data.csv
+anomaly_data.csv
+evaluation/
+images/
+
+# Environment
+.env
+
+# OS
+.DS_Store
