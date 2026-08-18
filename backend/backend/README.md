@@ -27,7 +27,7 @@ Counterfeit medicines are a global health crisis — the WHO estimates **1 in 10
 ## 📁 Project Structure
 
 ```
-pharma-authenticity/
+backend/backend+frontend
 │
 ├── data/
 │   └── generate_dataset.py          # Synthetic supply chain & anomaly data generator
